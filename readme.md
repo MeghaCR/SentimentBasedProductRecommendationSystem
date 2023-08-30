@@ -6,8 +6,7 @@
 1. Deploying the end-to-end project with a user interface
 
 ## Screenshot
-![image](https://github.com/MeghaCR/SentimentBasedProductRecommendationSystem/assets/22372884/f9962b35-a791-47dd-83d6-e522aaaba89b)
-
+![image](https://github.com/MeghaCR/SentimentBasedProductRecommendationSystem/assets/22372884/2a0dc749-a47a-45a3-aae8-eef3bbde5b30)
 
 ## Assets
 
